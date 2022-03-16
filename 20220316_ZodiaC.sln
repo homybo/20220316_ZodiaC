@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20220316_ZodiaC", "20220316_ZodiaC\20220316_ZodiaC.csproj", "{B57064BE-08DD-4D6A-992E-DF10DCABBAA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57064BE-08DD-4D6A-992E-DF10DCABBAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57064BE-08DD-4D6A-992E-DF10DCABBAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57064BE-08DD-4D6A-992E-DF10DCABBAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57064BE-08DD-4D6A-992E-DF10DCABBAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F421CD-2037-480E-B2B6-E2184B4C666F}
+	EndGlobalSection
+EndGlobal
